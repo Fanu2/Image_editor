@@ -1,0 +1,4 @@
+qimage2ndarray==1.8.3
+numpy==1.23.5  # Update to a compatible version
+scipy==1.11.2  # Update to a compatible version
+opencv-python-headless==4.6.0.66  # Use a compatible version
